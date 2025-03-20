@@ -1,13 +1,14 @@
 # Data Engineer Challenge
+
 ​El proyecto se trabajó en colab y los archivos en google drive
 Para que el proyecto funcione debe:
 1. Crear una carpeta en google drive que se llame challengeLatam
-2. Dentro de esta carpeta challengeLatam debe llevar los archivos en la siguiente estructura
+2. Dentro de esta carpeta challengeLatam debe llevar los archivos en la siguiente estructura de carpetas:
 
-  --tweetsjson
+  1. carpeta: tweetsjson
       --farmers-protest-tweets-2021-2-4.json
       --tweetsjson.7z
-  --src
+  2. carpeta: src
       --challenge.ipynb
       --q1_memory.py
       --q1_time.py
@@ -15,7 +16,7 @@ Para que el proyecto funcione debe:
       --q3_memory.py
       --q3_time.py
       --q2_time.py
-3. Abri el archivo challenge.ipynb y ejecutar todo.
+3. Abrir el archivo challenge.ipynb y ejecutar todo.
 
 # Data Engineer Challenge
 ​
